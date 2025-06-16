@@ -11,7 +11,7 @@ A simple Rock Paper Scissors game built using JavaScript that allows users to pl
 
 ## 🛠️ Technologies Used
 - JavaScript (Core Logic)
-- HTML & CSS (for UI, if applicable)
+- HTML & CSS (for UI)
 
 ## 📜 How to Play
 1. Select **Rock**, **Paper**, or **Scissors**.
@@ -24,7 +24,7 @@ A simple Rock Paper Scissors game built using JavaScript that allows users to pl
 
 ## ⚡ Installation & Usage
 1. Clone this repository:
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/adityakmrtiwari/Rock-Paper-Scissors.git
 
 2. Navigate to the project folder:
     cd rock-paper-scissors
@@ -32,9 +32,10 @@ A simple Rock Paper Scissors game built using JavaScript that allows users to pl
 4. Play the game!
 
 📂 Project Structure
+
 rock-paper-scissors/
-│── index.html   # Main HTML file (if applicable)
-│── style.css    # CSS styles (if applicable)
+│── index.html   # Main HTML file
+│── style.css    # CSS styles
 │── script.js    # JavaScript game logic
 │── README.md    # This file!
 
@@ -42,6 +43,6 @@ rock-paper-scissors/
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 🌟 Credits
-Created by Your Name. Feel free to contribute and improve this project!
+Created by Aditya. Feel free to contribute and improve this project!
 
 Enjoy playing Rock Paper Scissors! 🎉
